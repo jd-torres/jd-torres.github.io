@@ -17,7 +17,7 @@ show_social: true
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/jorge.pdf", title: "CV", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {title: "Lab", url: "https://childlanglab.com"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jdtorres@espol.edu.ec"}
